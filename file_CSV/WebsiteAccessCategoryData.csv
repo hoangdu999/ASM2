@@ -1,0 +1,201 @@
+AccessID,CustomerID,AccessDate,PageViewed,DurationSeconds,Referrer,DeviceType,Browser,Country,IPAddress
+1,2,2024-04-08,About,135,Twitter,Tablet,Opera,Lesotho,35.191.26.235
+2,42,2024-05-24,About,596,Direct,Mobile,Opera,Australia,178.43.163.152
+3,757,2024-03-13,Blog,453,LinkedIn,Mobile,Firefox,Jamaica,64.15.12.97
+4,753,2024-03-31,Contact,17,Facebook,Desktop,Safari,Moldova,11.63.165.203
+5,291,2024-05-27,About,346,Direct,Mobile,Safari,Saudi Arabia,18.52.228.194
+6,180,2024-02-11,Products,254,LinkedIn,Tablet,Edge,Bhutan,80.169.110.159
+7,461,2024-06-04,Products,348,Facebook,Desktop,Edge,Korea,79.27.3.62
+8,460,2024-04-07,Products,466,Google,Mobile,Edge,Mali,197.146.252.118
+9,663,2024-02-09,Home,157,Google,Mobile,Edge,Burkina Faso,28.220.253.213
+10,179,2024-02-24,Home,477,Facebook,Desktop,Safari,Saint Barthelemy,215.14.140.209
+11,744,2024-04-13,Home,315,Facebook,Mobile,Safari,Argentina,49.229.154.115
+12,515,2024-04-16,Blog,240,Google,Tablet,Chrome,Tajikistan,39.34.190.145
+13,976,2024-01-11,Contact,399,LinkedIn,Mobile,Edge,Somalia,116.228.55.173
+14,661,2024-02-24,About,145,LinkedIn,Mobile,Edge,Antarctica (the territory South of 60 deg S),8.207.130.26
+15,284,2024-04-24,Blog,553,Direct,Desktop,Opera,Jersey,10.25.143.221
+16,420,2024-03-01,Contact,347,Facebook,Tablet,Safari,Bulgaria,13.95.202.233
+17,552,2024-04-03,About,89,Direct,Tablet,Edge,Liechtenstein,72.53.64.112
+18,228,2024-03-22,About,273,Twitter,Tablet,Firefox,French Guiana,25.230.174.189
+19,572,2024-01-23,Products,520,LinkedIn,Desktop,Edge,Anguilla,185.49.251.10
+20,705,2024-03-07,Blog,326,Twitter,Desktop,Safari,Eritrea,54.195.230.175
+21,136,2024-03-02,Products,341,Facebook,Mobile,Safari,Zimbabwe,14.6.115.42
+22,481,2024-05-02,About,167,Facebook,Tablet,Edge,British Indian Ocean Territory (Chagos Archipelago),83.53.150.109
+23,120,2024-05-23,Home,277,Direct,Tablet,Firefox,Taiwan,198.146.199.242
+24,928,2024-02-17,Contact,274,Direct,Mobile,Chrome,Antarctica (the territory South of 60 deg S),99.174.122.166
+25,202,2024-05-20,Products,421,Direct,Tablet,Safari,Tonga,67.100.155.150
+26,161,2024-02-18,About,227,LinkedIn,Tablet,Firefox,Macao,153.194.99.247
+27,298,2024-02-11,Products,524,Twitter,Desktop,Firefox,Saint Pierre and Miquelon,95.5.56.148
+28,869,2024-02-09,Home,412,LinkedIn,Tablet,Edge,United States of America,168.114.152.50
+29,27,2024-01-12,Home,576,Direct,Mobile,Opera,Gabon,28.251.209.203
+30,68,2024-04-10,Home,510,Direct,Tablet,Firefox,Montserrat,38.230.225.94
+31,833,2024-01-21,Contact,444,Facebook,Mobile,Firefox,Yemen,180.136.248.230
+32,971,2024-02-15,Blog,512,Facebook,Desktop,Opera,United States of America,6.126.96.117
+33,761,2024-01-26,Home,224,Facebook,Mobile,Edge,Tokelau,83.128.201.233
+34,3,2024-05-05,Home,421,Facebook,Mobile,Edge,Namibia,35.155.23.210
+35,490,2024-01-05,Blog,459,LinkedIn,Desktop,Firefox,Palestinian Territory,20.84.140.66
+36,840,2024-01-03,Contact,374,Direct,Mobile,Safari,Bangladesh,9.137.110.91
+37,136,2024-03-24,Contact,391,Direct,Mobile,Firefox,Niger,165.58.255.240
+38,354,2024-02-17,Products,56,LinkedIn,Tablet,Safari,Sri Lanka,206.2.69.173
+39,1,2024-03-22,Home,110,LinkedIn,Tablet,Firefox,Czech Republic,93.135.135.32
+40,382,2024-04-29,Contact,483,LinkedIn,Tablet,Opera,Netherlands Antilles,137.152.18.240
+41,952,2024-03-30,Blog,395,Facebook,Tablet,Edge,Malaysia,30.170.202.253
+42,866,2024-05-03,Products,215,Twitter,Tablet,Chrome,Togo,18.208.186.83
+43,493,2024-05-31,About,442,Direct,Mobile,Safari,Serbia,136.109.87.150
+44,124,2024-02-17,Products,534,Twitter,Tablet,Edge,American Samoa,87.201.194.134
+45,153,2024-02-18,Contact,562,Facebook,Mobile,Firefox,Croatia,63.149.93.113
+46,507,2024-04-20,Contact,250,Twitter,Desktop,Safari,Burundi,174.220.218.210
+47,516,2024-02-20,Home,150,Twitter,Tablet,Edge,Ethiopia,120.143.160.41
+48,290,2024-01-25,Products,13,Google,Tablet,Opera,Papua New Guinea,125.155.5.132
+49,682,2024-04-10,Blog,415,Facebook,Tablet,Chrome,Saint Helena,152.113.64.138
+50,974,2024-03-09,Home,453,Direct,Tablet,Edge,Korea,100.13.116.217
+51,658,2024-05-14,Home,307,Facebook,Mobile,Firefox,Algeria,73.105.236.227
+52,927,2024-02-13,About,74,LinkedIn,Mobile,Chrome,Ecuador,140.139.92.25
+53,348,2024-01-22,Blog,22,LinkedIn,Mobile,Edge,Belarus,1.137.45.238
+54,770,2024-02-04,Blog,358,Direct,Mobile,Firefox,New Zealand,152.245.115.212
+55,864,2024-03-16,Home,150,Facebook,Desktop,Chrome,Reunion,82.28.178.132
+56,541,2024-04-01,About,482,Direct,Mobile,Chrome,Pakistan,50.9.106.135
+57,759,2024-04-21,Contact,392,LinkedIn,Tablet,Firefox,Tonga,43.33.183.218
+58,931,2024-03-25,Products,510,Facebook,Mobile,Opera,Ecuador,7.112.203.124
+59,353,2024-01-28,Home,122,Direct,Mobile,Opera,Nigeria,31.195.238.227
+60,865,2024-01-25,Home,526,Facebook,Mobile,Safari,China,44.149.52.79
+61,974,2024-01-05,About,11,LinkedIn,Desktop,Safari,Denmark,221.80.33.235
+62,914,2024-06-06,Products,249,LinkedIn,Tablet,Safari,Mongolia,198.159.240.2
+63,505,2024-05-15,Products,389,Direct,Desktop,Edge,Mozambique,181.2.22.101
+64,102,2024-01-23,Blog,195,Google,Mobile,Firefox,Burundi,133.35.19.167
+65,176,2024-03-29,Home,425,LinkedIn,Tablet,Edge,Timor-Leste,177.220.142.29
+66,287,2024-06-09,Blog,548,Facebook,Mobile,Edge,South Georgia and the South Sandwich Islands,72.200.218.65
+67,407,2024-06-14,Blog,369,Twitter,Desktop,Opera,Northern Mariana Islands,207.176.47.211
+68,615,2024-05-12,Home,390,Direct,Mobile,Edge,Canada,51.185.89.249
+69,246,2024-03-11,Blog,550,Facebook,Desktop,Chrome,Georgia,84.189.211.77
+70,112,2024-02-02,Home,535,Facebook,Tablet,Firefox,Cyprus,195.14.84.248
+71,715,2024-02-28,About,167,Google,Desktop,Opera,Costa Rica,214.140.187.23
+72,596,2024-04-10,Blog,537,Facebook,Tablet,Firefox,Mozambique,206.127.175.14
+73,325,2024-01-27,Products,61,Facebook,Tablet,Safari,Tuvalu,204.155.101.90
+74,242,2024-01-19,About,239,Direct,Tablet,Edge,Sudan,203.190.164.125
+75,14,2024-04-28,Home,458,Twitter,Mobile,Edge,Chad,175.76.232.32
+76,716,2024-02-19,Blog,412,Google,Mobile,Opera,Indonesia,147.67.110.42
+77,698,2024-03-31,Blog,26,Direct,Desktop,Firefox,Switzerland,98.172.40.43
+78,181,2024-02-09,About,519,Google,Desktop,Chrome,Micronesia,201.202.131.28
+79,190,2024-06-02,Products,511,Twitter,Mobile,Opera,Korea,124.112.167.39
+80,996,2024-02-08,Home,358,Twitter,Mobile,Firefox,South Georgia and the South Sandwich Islands,222.61.215.52
+81,214,2024-04-15,Home,487,Facebook,Mobile,Firefox,French Southern Territories,45.74.184.37
+82,10,2024-03-02,Contact,201,Google,Tablet,Opera,Bhutan,74.238.213.167
+83,244,2024-05-10,Home,455,Direct,Desktop,Chrome,Guinea,5.250.235.26
+84,10,2024-04-16,Home,77,Direct,Tablet,Safari,Sweden,188.196.181.208
+85,708,2024-01-08,Contact,104,LinkedIn,Tablet,Firefox,Bosnia and Herzegovina,183.207.251.240
+86,412,2024-05-11,Home,274,Direct,Mobile,Safari,Anguilla,187.31.254.155
+87,101,2024-04-14,Products,400,Facebook,Mobile,Firefox,Equatorial Guinea,24.254.172.176
+88,404,2024-05-21,About,575,Direct,Tablet,Opera,Belgium,106.254.235.246
+89,502,2024-03-11,About,493,Google,Tablet,Edge,Burkina Faso,25.62.27.195
+90,720,2024-04-11,About,111,Twitter,Mobile,Opera,Libyan Arab Jamahiriya,216.181.167.152
+91,561,2024-01-05,About,499,Twitter,Mobile,Edge,Bouvet Island (Bouvetoya),30.165.32.27
+92,398,2024-03-10,Home,444,LinkedIn,Tablet,Edge,Colombia,128.124.225.16
+93,746,2024-01-18,About,279,Twitter,Tablet,Safari,Sudan,12.38.188.155
+94,187,2024-05-13,Products,378,Google,Tablet,Edge,Belgium,150.78.89.49
+95,745,2024-04-04,Contact,82,Twitter,Desktop,Opera,Egypt,14.121.21.93
+96,721,2024-01-11,Home,342,Google,Desktop,Chrome,Macedonia,67.163.164.119
+97,617,2024-02-03,Home,190,Facebook,Tablet,Firefox,Antigua and Barbuda,101.175.107.113
+98,464,2024-02-23,Contact,157,LinkedIn,Tablet,Chrome,Tonga,162.57.211.213
+99,239,2024-04-01,Home,160,Twitter,Desktop,Safari,Nepal,113.155.134.197
+100,123,2024-02-04,Contact,304,Twitter,Desktop,Edge,Brunei Darussalam,137.106.232.118
+101,122,2024-02-27,About,197,Twitter,Desktop,Edge,Seychelles,174.109.98.95
+102,172,2024-03-16,Blog,334,Google,Desktop,Safari,Fiji,1.234.66.118
+103,253,2024-04-27,Home,84,Twitter,Desktop,Chrome,Angola,69.167.60.110
+104,110,2024-04-25,About,59,Twitter,Tablet,Chrome,Guinea,92.162.67.253
+105,714,2024-01-12,Products,49,Google,Tablet,Opera,Papua New Guinea,210.202.131.103
+106,640,2024-02-12,Home,58,Google,Mobile,Opera,Trinidad and Tobago,61.187.109.88
+107,715,2024-04-01,Products,288,Facebook,Desktop,Opera,Mauritius,97.29.81.3
+108,286,2024-06-02,Blog,215,Twitter,Tablet,Safari,Monaco,128.120.67.218
+109,188,2024-01-22,Products,326,Twitter,Mobile,Opera,Seychelles,60.87.63.164
+110,886,2024-02-11,Blog,493,Twitter,Desktop,Firefox,Jamaica,183.170.212.241
+111,48,2024-02-11,About,202,Twitter,Tablet,Edge,Qatar,181.28.64.248
+112,690,2024-03-24,Home,582,Facebook,Mobile,Chrome,Mongolia,96.128.113.107
+113,809,2024-06-11,About,40,Twitter,Tablet,Edge,Thailand,102.47.43.245
+114,265,2024-01-24,Home,138,LinkedIn,Tablet,Chrome,Isle of Man,31.69.250.213
+115,674,2024-01-03,Contact,585,Facebook,Desktop,Safari,Senegal,82.162.233.203
+116,343,2024-05-01,About,202,Facebook,Mobile,Chrome,Papua New Guinea,11.208.205.72
+117,167,2024-04-14,Blog,49,LinkedIn,Mobile,Firefox,Nigeria,64.221.88.101
+118,505,2024-04-04,Products,30,LinkedIn,Tablet,Firefox,Montserrat,209.223.94.56
+119,824,2024-01-16,Home,50,Twitter,Mobile,Opera,Jordan,76.120.129.249
+120,416,2024-01-29,Contact,378,Facebook,Mobile,Chrome,Canada,155.205.12.23
+121,97,2024-03-06,Contact,71,Facebook,Desktop,Firefox,Seychelles,181.52.182.169
+122,749,2024-02-20,Home,35,Twitter,Tablet,Edge,Cameroon,40.90.159.183
+123,345,2024-04-28,Contact,243,Direct,Tablet,Firefox,Liberia,63.161.101.208
+124,526,2024-05-17,About,557,Direct,Tablet,Safari,Madagascar,63.178.126.74
+125,349,2024-02-10,Home,218,Direct,Desktop,Firefox,Jamaica,80.78.89.79
+126,28,2024-03-22,About,132,Facebook,Mobile,Edge,Jersey,139.133.134.75
+127,806,2024-05-16,About,284,LinkedIn,Tablet,Safari,Egypt,222.36.19.136
+128,20,2024-05-16,About,442,Google,Tablet,Opera,France,46.50.237.217
+129,846,2024-06-11,Products,365,Twitter,Desktop,Chrome,Ethiopia,67.25.51.147
+130,210,2024-01-25,About,529,Twitter,Tablet,Safari,Germany,223.114.2.149
+131,938,2024-02-28,Home,329,Google,Desktop,Firefox,Tuvalu,158.255.151.241
+132,801,2024-05-28,Contact,217,Direct,Mobile,Safari,Venezuela,2.208.203.191
+133,724,2024-03-04,Home,72,LinkedIn,Desktop,Firefox,Portugal,189.156.187.176
+134,621,2024-02-07,Products,487,LinkedIn,Mobile,Safari,Samoa,188.52.235.174
+135,852,2024-04-15,About,381,LinkedIn,Tablet,Chrome,Saint Barthelemy,172.142.221.224
+136,316,2024-02-17,About,497,LinkedIn,Desktop,Opera,Belize,175.46.46.250
+137,650,2024-02-14,Products,45,Google,Tablet,Edge,Venezuela,119.109.94.60
+138,621,2024-05-31,Blog,121,Direct,Tablet,Safari,Burkina Faso,137.133.215.241
+139,260,2024-05-07,About,322,Facebook,Tablet,Edge,Bouvet Island (Bouvetoya),182.28.153.149
+140,821,2024-02-23,Blog,519,Twitter,Desktop,Safari,Estonia,4.23.131.75
+141,445,2024-05-17,Home,220,Direct,Desktop,Firefox,Mongolia,83.71.25.70
+142,818,2024-01-13,Home,455,LinkedIn,Desktop,Safari,Tonga,158.178.72.161
+143,559,2024-03-30,Blog,484,Direct,Tablet,Safari,Fiji,214.41.162.137
+144,174,2024-06-10,About,510,LinkedIn,Tablet,Opera,Grenada,205.62.186.157
+145,120,2024-03-29,Home,545,Facebook,Tablet,Chrome,Madagascar,136.51.8.64
+146,416,2024-03-17,Contact,563,Google,Tablet,Opera,Cuba,3.105.217.163
+147,318,2024-03-30,Contact,334,Direct,Desktop,Opera,Chile,3.84.1.101
+148,428,2024-03-10,Products,73,Direct,Mobile,Safari,Isle of Man,44.184.215.232
+149,808,2024-05-13,Home,309,Facebook,Desktop,Edge,Cote d'Ivoire,198.196.249.16
+150,831,2024-03-20,About,398,Direct,Tablet,Edge,Tanzania,111.11.242.247
+151,779,2024-01-28,Contact,550,LinkedIn,Tablet,Edge,Bolivia,61.169.24.97
+152,323,2024-05-19,Blog,286,Twitter,Tablet,Firefox,Isle of Man,25.142.31.228
+153,35,2024-05-13,Home,251,LinkedIn,Mobile,Firefox,Ghana,207.160.120.211
+154,88,2024-03-08,Home,212,Direct,Mobile,Chrome,Singapore,204.104.122.114
+155,733,2024-04-27,Home,549,Twitter,Mobile,Safari,Italy,193.142.161.2
+156,343,2024-06-11,Blog,150,Google,Tablet,Edge,Malaysia,53.7.8.223
+157,959,2024-05-15,About,542,LinkedIn,Tablet,Firefox,Cocos (Keeling) Islands,126.177.134.81
+158,1,2024-01-12,Contact,333,LinkedIn,Mobile,Opera,Uruguay,47.252.223.251
+159,665,2024-04-09,Blog,45,Google,Tablet,Firefox,Vietnam,217.2.189.103
+160,146,2024-03-12,Blog,96,Twitter,Mobile,Firefox,Mongolia,202.211.163.175
+161,970,2024-05-17,Home,242,Facebook,Desktop,Opera,Israel,21.200.245.226
+162,23,2024-01-02,Contact,81,Twitter,Mobile,Edge,Kazakhstan,133.184.2.231
+163,933,2024-02-07,About,307,Twitter,Mobile,Safari,Cape Verde,209.209.190.93
+164,3,2024-06-17,Home,485,LinkedIn,Tablet,Chrome,Saint Helena,112.8.37.6
+165,235,2024-03-30,Home,285,LinkedIn,Tablet,Opera,Latvia,45.243.36.203
+166,366,2024-03-08,Contact,561,LinkedIn,Tablet,Safari,Albania,50.41.169.28
+167,534,2024-01-11,Home,306,Twitter,Mobile,Chrome,Indonesia,105.88.138.204
+168,301,2024-01-22,Home,435,Facebook,Tablet,Safari,Bermuda,196.88.216.36
+169,884,2024-02-15,Contact,197,Facebook,Tablet,Safari,Latvia,24.15.7.177
+170,878,2024-04-05,Contact,97,Google,Tablet,Firefox,Heard Island and McDonald Islands,183.99.55.247
+171,149,2024-01-27,About,66,Direct,Tablet,Chrome,India,2.234.167.34
+172,945,2024-04-30,Home,395,Twitter,Desktop,Edge,Australia,170.46.209.158
+173,795,2024-05-15,Contact,597,Twitter,Desktop,Safari,Kiribati,138.71.229.176
+174,196,2024-02-19,About,115,Twitter,Desktop,Safari,Qatar,139.226.196.158
+175,224,2024-03-15,Contact,177,Facebook,Mobile,Firefox,Chile,215.27.50.248
+176,857,2024-05-15,Contact,539,Facebook,Desktop,Chrome,Northern Mariana Islands,116.22.248.190
+177,282,2024-05-17,Blog,533,LinkedIn,Desktop,Opera,Turkey,200.180.70.35
+178,708,2024-05-24,Contact,191,Twitter,Desktop,Opera,Isle of Man,54.169.247.34
+179,323,2024-06-13,Home,501,LinkedIn,Tablet,Opera,Western Sahara,202.42.68.94
+180,238,2024-02-28,About,552,Direct,Mobile,Safari,Morocco,111.30.135.138
+181,59,2024-01-25,Products,556,Facebook,Desktop,Opera,Ecuador,39.79.232.93
+182,544,2024-04-13,Home,346,Google,Tablet,Opera,United States Minor Outlying Islands,123.155.175.207
+183,581,2024-05-20,About,233,Google,Mobile,Opera,Burundi,76.162.242.170
+184,409,2024-01-29,Blog,536,Twitter,Tablet,Chrome,Timor-Leste,155.151.194.13
+185,350,2024-04-22,About,192,Direct,Tablet,Firefox,Sudan,156.199.200.175
+186,867,2024-04-20,Contact,276,Direct,Desktop,Chrome,Cayman Islands,61.95.221.156
+187,732,2024-03-17,Blog,276,Google,Desktop,Safari,Faroe Islands,95.90.36.175
+188,268,2024-02-10,Home,339,Direct,Mobile,Safari,Iraq,23.163.115.132
+189,967,2024-06-06,Home,450,Twitter,Desktop,Opera,Madagascar,205.137.70.213
+190,591,2024-06-13,Blog,330,Direct,Tablet,Firefox,Colombia,129.42.200.196
+191,959,2024-04-09,About,590,Facebook,Mobile,Opera,Puerto Rico,133.7.173.164
+192,418,2024-05-30,Home,492,Facebook,Tablet,Chrome,Burkina Faso,193.145.209.235
+193,330,2024-04-07,About,518,LinkedIn,Tablet,Edge,New Zealand,181.207.186.78
+194,592,2024-03-13,Home,328,Facebook,Tablet,Safari,Svalbard & Jan Mayen Islands,37.0.113.255
+195,527,2024-05-16,Blog,57,Direct,Tablet,Edge,Barbados,165.169.200.42
+196,445,2024-03-19,Products,140,Twitter,Tablet,Firefox,Iraq,87.69.78.55
+197,110,2024-04-19,Contact,50,Twitter,Mobile,Firefox,Andorra,177.16.89.144
+198,438,2024-03-20,Home,599,Google,Desktop,Chrome,Sierra Leone,128.93.243.198
+199,391,2024-01-01,Contact,574,Twitter,Desktop,Safari,Antarctica (the territory South of 60 deg S),219.191.84.177
+200,367,2024-01-22,Home,275,Twitter,Desktop,Firefox,Brunei Darussalam,87.29.230.159
